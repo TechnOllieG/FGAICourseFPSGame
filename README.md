@@ -5,7 +5,7 @@ Welcome to Aperture Laboratories
 You are an infiltrator in the army. Your mission is to infiltrate Aperture Laboratories and clear the way for the soldiers to free all test subjects currently trapped within the facility.
 The turrets can see you but not hear you, they pack a decent punch though so be sure to stay in the blind spots. The army will follow so make sure to disable all the turrets to prevent unnecessary loss of life.
 
-<h2>Info for Olof<h2>
+<h2>Info for Olof</h2>
 The main level is Called Map_Level01 (Editor startup level) at the very beginning there is a turret with no barrel or moving parts, that is an example of the hearing components I designed, when the player moves, "I heard you" will be logged.
 
 <strong>Short description of logic</strong>
